@@ -1,0 +1,30 @@
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.DataAccess.deps.json
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.DataAccess.pdb
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.Data.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.Data.pdb
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\refint\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.pdb
+C:\Users\ASUS\Desktop\aw2-ozturkdogukan\aw2-ozturkdogukan.Data\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\ref\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.DataAccess.deps.json
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.DataAccess.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.Data.dll
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\bin\Debug\net6.0\aw2-ozturkdogukan.Data.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\refint\aw2-ozturkdogukan.DataAccess.dll
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\aw2-ozturkdogukan.DataAccess.pdb
+C:\Users\ASUS\Desktop\Yeni klasör (4)\aw2-ozturkdogukan\aw2-ozturkdogukan.DataAccess\obj\Debug\net6.0\ref\aw2-ozturkdogukan.DataAccess.dll

@@ -1,6 +1,18 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/iGZu94G3)
 # aw2
 
+Projenin başlangıcının Aw2-ozturkdogukan.Core üzerinden olmasını sağlıyoruz. (Sağ tıklayıp Set as Startup Project).
+Aw2-ozturkdogukan.Core projesindeki appsettings.json dosyasında bulunan MsSqlConnection satırına kendi Mssql bağlantı sözcüğünüzü yazmanız yeterlidir.
+Projeyi çalıştırdığınızda Startup.cs üzerindeki kod parçasının yardımıyla otomatik olarak migration alıp veritabanını oluşturacaktır. ( Sizi migration alma zahmetinden kurtardım.)
+Ardından swagger ekranı sizi karşılayacak orada metodları test edebilirsiniz.
+
+
+
+
+
+
+-------------------------------------------------------------------------------------------------------------------------------
+
 Asagida verilen modeli kullanarak GetAll, GetById , Put , Post , Delete methodlarini icen bir controller implement ediniz. 
 
 EF ile generic repository ve UnitOfWork kullanabilirsiniz.
